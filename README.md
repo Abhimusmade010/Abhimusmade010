@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m Abhishek!<br><br>💻 Backend Developer passionate about building scalable and efficient systems using MERN stack (backend-focused).<br><br>📊 Strong interest in Data Structures & Algorithms (DSA) and problem-solving.<br><br>🌱 Always exploring new technologies and improving backend performance.<br><br>🏐 Outside coding, I enjoy playing volleyball and going on trekking adventures.
+#  About Me:
+Hi, I’m Abhishek!<br><br> Backend Developer passionate about building scalable and efficient systems using MERN stack (backend-focused).<br><br>Strong interest in Data Structures & Algorithms (DSA) and problem-solving.<br><br> Always exploring new technologies and improving backend performance.<br><br> Outside coding, I enjoy playing volleyball and going on trekking adventures.
 
 
 # 💻 Tech Stack:
