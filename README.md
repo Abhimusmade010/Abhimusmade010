@@ -48,7 +48,7 @@ Hi!,An engineer with a curios mind in knowing the problems and bringing solution
 
 <td width="50%" align="center">
 
-### 🌾 PICT Hardware Issue Management 
+###  PICT Hardware Issue Management 
 📌 Platform to manage hardware related issues by reporting to hardware engineer   
 
 🔗 **Live Demo:**  
