@@ -48,22 +48,22 @@ Hi!,An engineer with a curios mind in knowing the problems and bringing solution
 
 <td width="50%" align="center">
 
-### 🌾 Farmer Journal  
-📌 Platform to manage crop-related information  
+### 🌾 PICT Hardware Issue Management 
+📌 Platform to manage hardware related issues by reporting to hardware engineer   
 
 🔗 **Live Demo:**  
 https://project1-frontend-dun.vercel.app/
 
 </td>
 
-<td width="50%" align="center">
+<!-- <td width="50%" align="center">
 
 ### 🏫 Complaint Management System  
 📌 Faculty can report hardware issues with admin tracking  
 
 ⚙️ Node.js + Excel Integration  
 
-</td>
+</td> -->
 
 </tr>
 </table>
