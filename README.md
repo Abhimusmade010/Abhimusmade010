@@ -70,19 +70,7 @@ https://project1-frontend-dun.vercel.app/
 
 </div>
 
----
 
-## 🏆 LeetCode
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/abhishekmusmade010?theme=dark&font=Karma&ext=heatmap" />
-
-</div>
-
-🔗 https://leetcode.com/u/abhishekmusmade010/
-
----
 
 ## 📊 GitHub Stats
 
