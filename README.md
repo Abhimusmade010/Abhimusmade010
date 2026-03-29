@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Engineer;Redis+Learner;DSA+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Developer;DSA+Enthusiast;Professional Volleyball Player;& Learner" />
+  
 </div>
 
 ---
