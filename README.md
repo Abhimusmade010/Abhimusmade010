@@ -8,8 +8,7 @@
 
 **Abhishek Musmade** | IT Undergraduate  
 
-I am a backend-focused developer passionate about building **real-world scalable applications**.  
-Currently focused on mastering the **MERN stack, Redis, and DSA** to become internship-ready and solve impactful problems.
+Hi!,An engineer with a curios mind in knowing the problems and bringing solutions for it which will improve me in the world and world around me.Backend Developement and Data Structures & Algorithms
 
 ---
 
