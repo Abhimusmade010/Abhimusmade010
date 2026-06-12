@@ -69,10 +69,10 @@ Hi!,An engineer with a curios mind in knowing the problems and bringing solution
 
 <td width="50%" align="center">
 
-<h3>🏨 Hotel Stay Booking Website</h3>
+<h3>🏨 FindYourStay</h3>
 
 <p>
-📌 Platform to explore nearby hotels and book stays.
+📌End-to-end hotel booking platform featuring hotel discovery, detailed listings, secure booking, and user-friendly search.
 </p>
 
 <a href="https://find-your-stay-swart.vercel.app/">
