@@ -11,8 +11,6 @@
 
 Hey there! 👋 I'm an engineering student with a curious mindset and a passion for solving real-world problems through technology. I enjoy exploring how systems work, identifying challenges, and building practical solutions that create value for people and the world around me.
 
-My primary interests include Backend Development, Scalable System Design, and Data Structures & Algorithms. I am constantly learning, building projects, and improving my problem-solving skills to become a better software engineer.
-
 🚀 Interests
 Backend Development
 System Design & Backend Engineering
