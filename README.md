@@ -9,22 +9,17 @@
 
 **Abhishek Musmade** | IT Undergraduate  
 
-Hey there! 👋 I'm an engineering student with a curious mindset and a passion for solving real-world problems through technology. I enjoy exploring how systems work, identifying challenges, and building practical solutions that create value for people and the world around me.
+## 🌟 Overview
 
-🚀 Interests
-Backend Development
-System Design & Backend Engineering
-Data Structures & Algorithms
-Web Development
-Problem Solving
-Building Real-World Projects
+**Abhishek Musmade** | IT Undergraduate
 
-🎯 Current Focus
-Mastering Backend Development with Node.js & Express.js
-Strengthening DSA 
-Building Scalable Full-Stack Applications
-Learning Software Engineering Best Practices
+Hey there! 👋 I'm a backend-focused developer passionate about building scalable applications and solving real-world problems through technology. I enjoy designing efficient systems, developing robust APIs, and continuously improving my problem-solving skills through Data Structures & Algorithms.
 
+### 🚀 Interests
+- Backend Development
+- Backend Engineering
+- Data Structures & Algorithms
+- Web Development
 
 ---
 
