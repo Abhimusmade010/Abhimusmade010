@@ -9,7 +9,7 @@
 
 **Abhishek Musmade** | IT Undergraduate  
 
-Hi!,An engineer with a curios mind in knowing the problems and bringing solutions for it which will improve me in the world and world around me.Backend Developement and Data Structures & Algorithms
+Hey!,An engineer with a curios mind in knowing the problems and bringing solutions for it which will improve me in the world and world around me.Interested in Backend Developement,Engineering Backend Systems,Data Structures & Algorithms
 
 ---
 
