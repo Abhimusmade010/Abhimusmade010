@@ -71,6 +71,15 @@ https://project1-frontend-dun.vercel.app/
 ⚙️ Node.js + Excel Integration  
 
 </td> -->
+<td>
+###Hotel-Stay Booking Website
+📌 Platform to explore the nearby Hotels for stay Booking
+
+🔗 **Live Demo:**  
+https://find-your-stay-swart.vercel.app/
+
+</td>
+
 
 </tr>
 </table>
