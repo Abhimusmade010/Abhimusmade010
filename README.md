@@ -72,7 +72,7 @@ https://project1-frontend-dun.vercel.app/
 
 </td> -->
 <td>
-###Hotel-Stay Booking Website
+###  Hotel-Stay Booking Website
 📌 Platform to explore the nearby Hotels for stay Booking
 
 🔗 **Live Demo:**  
