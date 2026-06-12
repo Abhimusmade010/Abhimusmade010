@@ -55,37 +55,36 @@ Hi!,An engineer with a curios mind in knowing the problems and bringing solution
 
 <td width="50%" align="center">
 
-###  PICT Hardware Issue Management 
-📌 Platform to manage hardware related issues by reporting to hardware engineer   
+<h3>🖥️ PICT Hardware Issue Management</h3>
 
-🔗 **Live Demo:**  
-https://project1-frontend-dun.vercel.app/
+<p>
+📌 Platform to manage hardware-related issues by reporting them to the hardware engineer.
+</p>
 
-</td>
-
-<!-- <td width="50%" align="center">
-
-### 🏫 Complaint Management System  
-📌 Faculty can report hardware issues with admin tracking  
-
-⚙️ Node.js + Excel Integration  
-
-</td> -->
-<td>
-###  Hotel-Stay Booking Website
-📌 Platform to explore the nearby Hotels for stay Booking
-
-🔗 **Live Demo:**  
-https://find-your-stay-swart.vercel.app/
+<a href="https://project1-frontend-dun.vercel.app/">
+🔗 Live Demo
+</a>
 
 </td>
 
+<td width="50%" align="center">
+
+<h3>🏨 Hotel Stay Booking Website</h3>
+
+<p>
+📌 Platform to explore nearby hotels and book stays.
+</p>
+
+<a href="https://find-your-stay-swart.vercel.app/">
+🔗 Live Demo
+</a>
+
+</td>
 
 </tr>
 </table>
 
 </div>
-
 
 
 ## 📊 GitHub Stats
