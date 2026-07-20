@@ -197,7 +197,7 @@ const skillDiagnostics = {
 <img src="https://github-readme-stats.vercel.app/api?username=Abhimusmade010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimusmade010&layout=compact&theme=tokyonight&hide_border=true" width="42%" /> -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhimusmade010 &show_icons=true&theme=tokyonight"/>
 
 <br/>
 
