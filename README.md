@@ -1,136 +1,267 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Developer;DSA+Enthusiast;Professional+Volleyball+Player;&+Learner" />
-  
+
+# ✦ &nbsp; Abhishek Musmade &nbsp; ✦
+### `< Backend Developer />` &nbsp;·&nbsp; `{ Software Engineer }`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=760&height=45&lines=Backend+Developer+%F0%9F%9A%80;AWS+%7C+Node.js+%7C+MongoDB+%7C+Redis;500%2B+DSA+Problems+Solved+%F0%9F%92%AA;Building+Scalable+Backend+Systems.)](https://git.io/typing-svg)
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekmusmade342@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhimusmade010)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abhimusmade010&label=Profile+Views&color=22c55e&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Abhimusmade010?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=0f172a)
+
 </div>
 
 ---
 
-## 🌟 Overview
+## `const abhishek = { ... }`
 
-**Abhishek Musmade** | IT Undergraduate  
+```javascript
+const abhishek = {
+    name: "Abhishek Musmade",
+    role: "Backend Developer",
+    education: "B.E Information Technology @ PICT",
+    location: "Pune, India 🇮🇳",
 
-## 🌟 Overview
+    email: "abhishekmusmade342@gmail.com",
 
-**Abhishek Musmade** | IT Undergraduate
+    stack: {
+        languages: [
+            "C++",
+            "C",
+            "JavaScript",
+            "Java",
+            "SQL"
+        ],
 
-Hey there! 👋 I'm a backend-focused developer passionate about building scalable applications and solving real-world problems through technology. I enjoy designing efficient systems, developing robust APIs, and continuously improving my problem-solving skills through Data Structures & Algorithms.
+        backend: [
+            "Node.js",
+            "Express.js",
+            "REST APIs",
+            "JWT",
+            "Redis",
+            "Zod",
+            "bcrypt"
+        ],
 
-### 🚀 Interests
-- Backend Development
-- Backend Engineering
-- Data Structures & Algorithms
-- Web Development
+        databases: [
+            "MongoDB",
+            "MySQL",
+            "Redis"
+        ],
+
+        cloud: [
+            "AWS EC2",
+            "AWS S3",
+            "Nginx",
+            "PM2"
+        ],
+
+        tools: [
+            "Git",
+            "GitHub",
+            "Postman",
+            "MongoDB Atlas",
+            "VS Code"
+        ]
+    },
+
+    currently: {
+        building: "Scalable backend applications using clean architecture",
+        learning: [
+            "System Design",
+            "Microservices",
+            "Docker",
+            "AWS"
+        ],
+        openTo: [
+            "Backend Internship",
+            "Software Engineering Roles",
+            "Open Source"
+        ]
+    },
+
+    status: "ONLINE ✅",
+
+    get motto() {
+        return "Build reliable systems that scale.";
+    }
+};
+```
 
 ---
 
-## 🛠️ Tech Stack
+# `import { skills } from './arsenal'`
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<div align="center">
+
+### Languages
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### Backend
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Database
 
-### 📡 API & Documentation
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### ☁️ Storage & Services
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+### Cloud & DevOps
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<h3>🖥️ PICT Hardware Issue Management</h3>
-
-<p>
-📌 Platform to manage hardware-related issues by reporting them to the hardware engineer.
-</p>
-
-<a href="https://project1-frontend-dun.vercel.app/">
-🔗 Live Demo
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>🏨 FindYourStay</h3>
-
-<p>
-📌End-to-end hotel booking platform featuring hotel discovery, detailed listings, secure booking, and user-friendly search.
-</p>
-
-<a href="https://find-your-stay-swart.vercel.app/">
-🔗 Live Demo
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhimusmade010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhimusmade010&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimusmade010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 ---
 
-## 🏅 Extra Curricular
+# `projects.map(project => <ProjectCard />)`
 
-- 🏐 Member of **PICT Volleyball Team**
-
----
-
-## 🎯 Hobbies & Interests
-
-- 🌄 Trekking  
-- 📚 Reading tech articles  
-- ⚽ Playing outdoor games  
+| 🚀 Project | 💡 Description | ⚡ Tech Stack |
+|------------|---------------|---------------|
+| **FixIT** | Complaint Management Platform with JWT Authentication, RBAC, Search, Pagination, Analytics, Email Notifications, Auto Escalation, AWS S3 uploads, Redis Caching and AWS EC2 Deployment. | Node.js • Express • MongoDB • Redis • AWS EC2 • AWS S3 • JWT |
+| **FindYourStay** | Hotel Booking Platform with Role Based Access Control, MongoDB Transactions, Redis Caching and Cloudinary Integration. | Node.js • Express • MongoDB • Redis |
+| **Healthcare Platform (Internship)** | Backend APIs for Doctors, Patients & Pharmacists including JWT Authentication, Zod Validation and Video Conferencing Integration. | Node.js • Express • MongoDB • JWT |
 
 ---
 
-## 🤝 Connect With Me
+# `experience.current`
+
+```yaml
+Company:
+    Pune Institute of Computer Technology
+
+Role:
+    Project Development Intern
+
+Duration:
+    Jan 2026 - Mar 2026
+
+Worked On:
+    ✔ Backend Development
+    ✔ JWT Authentication
+    ✔ Role Based Access Control
+    ✔ Zod Validation
+    ✔ WebRTC/Jitsi Video Calling
+```
+
+---
+
+# `skillDiagnostics`
+
+```javascript
+const skillDiagnostics = {
+
+    "Backend Development": {
+        level: 90,
+        status: "ACTIVE 🔥"
+    },
+
+    "Problem Solving": {
+        level: 95,
+        status: "500+ DSA 🚀"
+    },
+
+    "System Design": {
+        level: 75,
+        status: "LEARNING ⚡"
+    },
+
+    "AWS": {
+        level: 80,
+        status: "ONLINE ✅"
+    },
+
+    "Databases": {
+        level: 88,
+        status: "ACTIVE 🔥"
+    }
+
+};
+```
+
+---
+
+# `await Promise.all([stats(), streak(), graph()])`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhimusmade010)
+<img src="https://github-readme-stats.vercel.app/api?username=Abhimusmade010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-musmade-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimusmade010&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Abhimusmade010&theme=tokyonight-duo&hide_border=true"/>
+
+</div>
+
+---
+
+# `achievements`
+
+```yaml
+🏆 500+ DSA Problems Solved
+
+🥈 Smart India Hackathon 2025 Participant
+
+🥈 Poonawala Fincorp Hackathon Participant
+
+🏆 Pre Final Round - Pradnya INC'26 Coding Competition
+
+🏐 Winner - Pune City Zonal Volleyball Tournament
+
+🎯 MHT-CET 99.21 Percentile
+```
+
+---
+
+# `throw new Error("Let's Connect")`
+
+```javascript
+const contact = {
+
+    email: "abhishekmusmade342@gmail.com",
+
+    linkedin: "linkedin.com/in/YOUR_LINKEDIN",
+
+    github: "github.com/Abhimusmade010",
+
+    status: "Open for Internship Opportunities 🟢"
+
+};
+```
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekmusmade342@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+[![GitHub](https://img.shields.io/badge/Follow-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhimusmade010)
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Build reliable systems that scale."*
+
+</div>
