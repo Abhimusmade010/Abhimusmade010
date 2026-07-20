@@ -245,7 +245,7 @@ const contact = {
 
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekmusmade342@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhishek Musmade)
 
 [![GitHub](https://img.shields.io/badge/Follow-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhimusmade010)
 
