@@ -74,14 +74,12 @@ const abhishek = {
         building: "Scalable backend applications using clean architecture",
         learning: [
             "System Design",
-            "Microservices",
             "Docker",
             "AWS"
         ],
         openTo: [
             "Backend Internship",
             "Software Engineering Roles",
-            "Open Source"
         ]
     },
 
@@ -120,7 +118,7 @@ const abhishek = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### Cloud & DevOps
+### Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
@@ -177,12 +175,6 @@ const skillDiagnostics = {
         level: 95,
         status: "500+ DSA 🚀"
     },
-
-    "System Design": {
-        level: 75,
-        status: "LEARNING ⚡"
-    },
-
     "AWS": {
         level: 80,
         status: "ONLINE ✅"
@@ -204,7 +196,8 @@ const skillDiagnostics = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abhimusmade010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimusmade010&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimusmade010&layout=compact&theme=tokyonight&hide_border=true" width="42%" /> -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
 <br/>
 
