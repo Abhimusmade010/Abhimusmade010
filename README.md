@@ -1,102 +1,136 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abhishek%20Musmade&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Backend%20Development%20%7C%20Node.js&descAlignY=60&descColor=a0a0ff&animation=fadeIn&fontAlignX=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Developer;DSA+Enthusiast;Professional+Volleyball+Player;&+Learner" />
   
-  <br/>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=7B8CDE&center=true&vCenter=true&multiline=false&width=650&lines=Building+scalable+backend+systems;Node.js+%7C+Express.js+%7C+MongoDB+%7C+Redis;Clean+Code+%7C+SOLID+Principles)](https://git.io/typing-svg)
-  
-  <br/>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekmusmade-0582a7289)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhimusmade010)
-  [![Profile Views](https://komarev.com/ghpvc/?username=Abhimusmade010&label=Profile+Views&color=7B8CDE&style=for-the-badge)](https://github.com/Abhimusmade010)
 </div>
 
 ---
 
-## ⚡ About Me
-```yaml
-name         : Abhishek Musmade
-role         : Software Engineer · Backend Development
-education    : B.E. (IT) @ Pune Institute of Computer Technology (2023-2027)
+## 🌟 Overview
 
-currently    :
-  building   → FixIT (Hardware/Software Maintenance Platform)
-  learning   → Advanced System Design · AWS Ecosystem
+**Abhishek Musmade** | IT Undergraduate  
 
-philosophy   : Clean Code → SOLID Principles → Maintainable Systems
+## 🌟 Overview
 
-strengths    :
-  - Core backend layers: REST APIs, JWT Auth, RBAC, request validation
-  - Optimizing application performance and ensuring data consistency
-  - Object-Oriented Programming (OOP) and Design Patterns
+**Abhishek Musmade** | IT Undergraduate
 
-highlights   :
-  cgpa       : 9.34
-  dsa        : 500+ algorithmic problems solved
-  achieved   : 99.21 Percentile in MHT-CET (District Rank 5)
+Hey there! 👋 I'm a backend-focused developer passionate about building scalable applications and solving real-world problems through technology. I enjoy designing efficient systems, developing robust APIs, and continuously improving my problem-solving skills through Data Structures & Algorithms.
 
+### 🚀 Interests
+- Backend Development
+- Backend Engineering
+- Data Structures & Algorithms
+- Web Development
 
+---
 
+## 🛠️ Tech Stack
 
-**Core Architecture Decisions:**
-  > **Storage** — Integrated AWS S3 using presigned URLs for secure image/video uploads.
-  > **Infrastructure** — Deployed resilient backend on AWS EC2 using PM2 for process management and Nginx as a reverse proxy.
+### 💻 Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  **What it does:**
-  - 🔐 JWT authentication & RBAC integration
-  - 📊 Secure REST APIs with search, filtering, and pagination
-  - ⏱️ Node-Cron auto-escalation reminders
-  - 📧 Nodemailer email notifications & CSV export via excelJS
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-  ![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📡 API & Documentation
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+### ☁️ Storage & Services
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<h3>🖥️ PICT Hardware Issue Management</h3>
+
+<p>
+📌 Platform to manage hardware-related issues by reporting them to the hardware engineer.
+</p>
+
+<a href="https://project1-frontend-dun.vercel.app/">
+🔗 Live Demo
+</a>
+
 </td>
-<td width="50%" valign="top">
-  ### 🏨 [FindYourStay](#)
-  **Hotel Booking Engine**
-  A highly optimized booking platform ensuring data consistency through transactional operations and caching layers.
 
-  **Core Architecture Decisions:**
-  > **Consistency** — Engineered approval-based booking lifecycles utilizing MongoDB Transactions for atomic operations.
-  > **Performance** — Integrated Redis caching to significantly improve hotel API response times.
+<td width="50%" align="center">
 
-  **What it does:**
-  - 🔑 RBAC supporting Customers, Hotel Admins, and Super Admins
-  - 🛡️ JWT based stateless authentication
-  - 🖼️ Cloudinary integration for optimized media storage and delivery
-  - ⚡ High-performance REST APIs
+<h3>🏨 FindYourStay</h3>
 
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-  ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+<p>
+📌End-to-end hotel booking platform featuring hotel discovery, detailed listings, secure booking, and user-friendly search.
+</p>
 
+<a href="https://find-your-stay-swart.vercel.app/">
+🔗 Live Demo
+</a>
 
+</td>
+
+</tr>
+</table>
+
+</div>
 
 
-name: Generate Snake
+## 📊 GitHub Stats
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhimusmade010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhimusmade010&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimusmade010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
+---
+
+## 🏅 Extra Curricular
+
+- 🏐 Member of **PICT Volleyball Team**
+
+---
+
+## 🎯 Hobbies & Interests
+
+- 🌄 Trekking  
+- 📚 Reading tech articles  
+- ⚽ Playing outdoor games  
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhimusmade010)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-musmade-
