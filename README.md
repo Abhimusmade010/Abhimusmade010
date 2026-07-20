@@ -3,7 +3,7 @@
   
   <br/>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=7B8CDE&center=true&vCenter=true&multiline=false&width=650&lines=Building+scalable+backend+systems;Node.js+%7C+Express.js+%7C+MongoDB+%7C+Redis;Clean+Code+%7C+SOLID+Principles](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=7B8CDE&center=true&vCenter=true&multiline=false&width=650&lines=Building+scalable+backend+systems;Node.js+%7C+Express.js+%7C+MongoDB+%7C+Redis;Clean+Code+%7C+SOLID+Principles)](https://git.io/typing-svg)
   
   <br/>
   
