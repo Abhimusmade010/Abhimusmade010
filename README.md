@@ -34,7 +34,7 @@ const abhishek = {
             "C++",
             "C",
             "JavaScript",
-            "Java",
+            "Java(OOP)",
             "SQL"
         ],
 
@@ -44,8 +44,6 @@ const abhishek = {
             "REST APIs",
             "JWT",
             "Redis",
-            "Zod",
-            "bcrypt"
         ],
 
         databases: [
@@ -54,7 +52,7 @@ const abhishek = {
             "Redis"
         ],
 
-        cloud: [
+        cloud(Basics): [
             "AWS EC2",
             "AWS S3",
             "Nginx",
@@ -66,16 +64,17 @@ const abhishek = {
             "GitHub",
             "Postman",
             "MongoDB Atlas",
-            "VS Code"
+            "VS Code",
+            "SQL WorkBench",
+            "Swagger"
         ]
     },
 
     currently: {
         building: "Scalable backend applications using clean architecture",
         learning: [
-            "System Design",
-            "Docker",
-            "AWS"
+            "OOP->LLD->HLD->System Design",
+            "Scaling Applications"
         ],
         openTo: [
             "Backend Internship",
@@ -86,7 +85,7 @@ const abhishek = {
     status: "ONLINE ✅",
 
     get motto() {
-        return "Build reliable systems that scale.";
+        return "Software System following SOLID principles,Design Patterns with clean code practices.";
     }
 };
 ```
