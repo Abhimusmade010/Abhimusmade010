@@ -94,9 +94,9 @@ const abhishek = {
 
 # `projects.map(project => <ProjectCard />)`
 
-| 🚀 Project | 💡 Description | ⚡ Tech Stack |
+| 🚀 Project | 💡 Description | ⚡ Live |
 |------------|---------------|---------------|
-| **FixIT** | Complaint Management Platform with JWT Authentication, RBAC, Search, Pagination, Analytics, Email Notifications, Auto Escalation, AWS S3 uploads, AWS EC2 Deployment. | Node.js • Express • MongoDB • AWS EC2 • AWS S3 • JWT |
+| **FixIT** | Complaint Management Platform with JWT Authentication, RBAC, Search, Pagination, Analytics, Email Notifications, Auto Escalation, AWS S3 uploads, AWS EC2 Deployment. | [Live Demo](https://hardware-management-frontend.vercel.app/user/login) |
 | **FindYourStay** | Hotel Booking Platform with Role Based Access Control, MongoDB Transactions, Redis Caching and Cloudinary Integration. | Node.js • Express • MongoDB • Redis |
 | **Healthcare Platform (Internship)** | Backend APIs for Doctors, Patients & Pharmacists including JWT Authentication, Zod Validation and Video Conferencing Integration. | Node.js • Express • MongoDB • JWT |
 
