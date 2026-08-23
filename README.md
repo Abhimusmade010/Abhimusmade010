@@ -99,6 +99,7 @@ const abhishek = {
 | **FixIT** | Complaint Management Platform with JWT Authentication, RBAC, Search, Pagination, Analytics, Email Notifications, Auto Escalation, AWS S3 uploads, AWS EC2 Deployment. | [Live Demo](https://hardware-management-frontend.vercel.app/user/login) |
 | **FindYourStay** | Hotel Booking Platform with Role Based Access Control, MongoDB Transactions, Redis Caching and Cloudinary Integration. | [Live Demo](https://find-your-stay-swart.vercel.app/) |
 | **Healthcare Platform (Internship)** | Backend APIs for Doctors, Patients & Pharmacists including JWT Authentication, Zod Validation and Video Conferencing Integration. | [Live Demo](https://deploymentarogya.vercel.app/) |
+| **NyayaSetu** | AI-Powered Legal Rights Navigator for Indian Citizens with RAG-based Question Answering, Section-Aware Document Retrieval, Semantic Search and Source-Grounded Responses. | [Repo](https://github.com/Abhimusmade010/NyaySetu) |
 
 ---
 
