@@ -3,7 +3,7 @@
 # ✦ &nbsp; Abhishek Musmade &nbsp; ✦
 ### `< Backend Developer />` &nbsp;·&nbsp; `{ Software Engineer }`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=760&height=45&lines=Backend+Developer+%F0%9F%9A%80;AWS+%7C+Node.js+%7C+MongoDB+%7C+Redis;500%2B+DSA+Problems+Solved+%F0%9F%92%AA;Building+Scalable+Backend+Systems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=760&height=45&lines=Backend+Developer+%F0%9F%9A%80;AWS+%7C+Node.js+%7C+MongoDB+%7C+Redis;500%2B+DSA+Problems+Solved+%F0%9F%92%AA.)](https://git.io/typing-svg)
 
 <br/>
 
